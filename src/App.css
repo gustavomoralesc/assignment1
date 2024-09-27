@@ -112,7 +112,7 @@ hr {
 #akeyskill1, #akeyskill2, #akeyskill3, #akeyskill4, #akeyskill5, #akeyskill6, #akeyskill7, #akeyskill8, #akeyskill9 {
     margin-bottom: -9%;
     margin: -3%;
-
+    margin-right: -100px;
 }
 
 #keyskillstitle {
